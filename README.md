@@ -1,4 +1,12 @@
-# kafka demo project
+# Kafka Demo Project Java 11 
+
+* spring boot project
+* Kafka in dependency with Web
+* Controller to fetch messages from client
+* Producer who push these messages / events to topic
+* Consumer to listen to it
+* Application.properties to configure producer properties
+
 
 ___
 ### GET REQUEST
@@ -20,4 +28,17 @@ ___
 ```
 http://localhost:8080/rest/api/producerMsg?message=hello
 ```
-[Thx](https://www.youtube.com/watch?v=WOPPG5tyApg)
+___
+## Others
+### Java 11
+### Maven
+### Spring Boot
+### Kafka
+### Topic name : kafkaDemo_Topic
+### 
+
+
+
+
+
+[T](https://www.youtube.com/watch?v=WOPPG5tyApg)
