@@ -1,4 +1,4 @@
-package com.kafka.demo.kafka.controller.service;
+package com.kafka.demo.kafka.service;
 
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;

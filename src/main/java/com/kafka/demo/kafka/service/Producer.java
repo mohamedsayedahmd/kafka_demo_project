@@ -1,4 +1,4 @@
-package com.kafka.demo.kafka.controller.service;
+package com.kafka.demo.kafka.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
