@@ -1,0 +1,12 @@
+
+spring:
+  kafka:
+    producer:
+      bootstrap-servers: localhost:9092
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+#  A serializer in the context of Apache Kafka is a component responsible for converting data (messages) from their native format into a format that Kafka can understand, which is a sequence of bytes.
+
+# message to bytes
+
+
